@@ -7,5 +7,5 @@ joblib
 scikit-learn
 Pillow 
 tensorflow==2.9.0
-tensorflow
+tensorflow==3.7.0
 protobuf==3.20.0
