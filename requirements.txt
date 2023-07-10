@@ -7,6 +7,7 @@ joblib
 scikit-learn
 Pillow 
 tensorflow==2.9.0
+protobuf==3.20.1
 docker
 keras 
 pandas
