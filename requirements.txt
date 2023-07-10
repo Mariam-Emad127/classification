@@ -8,4 +8,4 @@ tensorflow
 docker
 keras 
 pandas
-protobuf==3.20.*
+ 
