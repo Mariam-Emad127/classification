@@ -9,7 +9,6 @@ tensorflow
 docker
 keras 
 pandas
-os
 sys 
 requests
 gcd
