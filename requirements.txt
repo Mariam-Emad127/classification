@@ -7,7 +7,6 @@ Pillow
 tensorflow
 docker
 keras 
-sklearn
 cv2
 pandas
 protobuf==3.20.*
