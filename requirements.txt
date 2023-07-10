@@ -29,4 +29,3 @@ pycparser
 six 
 SQLAlchemy
 visitor
-gcc
