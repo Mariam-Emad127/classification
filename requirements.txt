@@ -1,4 +1,5 @@
 gunicorn
+h5py
 numpy
 flask
 joblib
