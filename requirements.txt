@@ -6,7 +6,7 @@ flask
 joblib
 scikit-learn
 Pillow 
-tensorflow
+tensorflow="2.9.0"
 docker
 keras 
 pandas
