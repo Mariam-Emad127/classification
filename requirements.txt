@@ -6,4 +6,4 @@ scikit-learn
 Pillow 
 tensorflow
 docker
-os
+ 
