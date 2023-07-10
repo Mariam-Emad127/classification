@@ -29,3 +29,5 @@ pycparser
 six 
 SQLAlchemy
 visitor
+libpq-dev
+gcc
