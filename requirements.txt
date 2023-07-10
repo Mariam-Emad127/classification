@@ -9,5 +9,6 @@ tensorflow
 docker
 keras 
 pandas
-import os
-import sys 
+os
+sys 
+requests
