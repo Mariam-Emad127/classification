@@ -7,4 +7,7 @@ Pillow
 tensorflow
 docker
 keras 
-protobuf
+sklearn
+cv2
+pandas
+protobuf==3.20.*
