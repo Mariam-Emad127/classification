@@ -5,7 +5,6 @@ joblib
 scikit-learn
 Pillow 
 tensorflow
-h5py
-protobuf
+h5py 
 docker
- 
+  
