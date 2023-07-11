@@ -6,6 +6,5 @@ flask
 joblib
 scikit-learn
 Pillow 
-tensorflow==2.11.0
 protobuf==3.20.0
-pip install tensorflow==3.11.3
+ 
